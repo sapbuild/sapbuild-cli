@@ -43,7 +43,6 @@
   },
   "devDependencies": {
   },
-    "readmeFilename": "README.md",
     "preferGlobal": true,
     "bin": {
         "sapbuild": "server/appWithInit.js"
