@@ -24,7 +24,7 @@
         }
     },
     "db": {
-        "hosts": "localhost",
+        "hosts": "mongo",
         "database": "norman",
         "options": {
             "db": {
